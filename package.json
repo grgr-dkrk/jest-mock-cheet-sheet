@@ -1,0 +1,21 @@
+{
+  "name": "jest-mock-cheet-sheet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@swc-node/jest": "^1.4.3",
+    "@types/jest": "^27.4.0",
+    "@types/uuid": "^8.3.4",
+    "jest": "^27.5.1",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "uuid": "^8.3.2"
+  }
+}
